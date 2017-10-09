@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/libthrift-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/slf4j-api-1.7.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/workspace/Thrift/lib/slf4j-simple-1.7.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/libthrift-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/slf4j-api-1.7.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/larissa.pereira/Desktop/libSD/slf4j-simple-1.7.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/libthrift-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/slf4j-api-1.7.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Larissa/Desktop/libSD/slf4j-simple-1.7.24.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
